@@ -1,0 +1,30 @@
+.login_Form_Container {
+    background-color: white;
+    min-height: 100vh;
+    max-height: 100vh;
+}
+
+.login_From_Content {
+    padding-top: 110px;
+    padding-left: 91px;
+}
+
+.login_From_Content h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    /* line-height: 44px; */
+    color: #000000;
+}
+
+.login_From_Content p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    opacity: 0.5;
+    margin-top: -22px;
+}

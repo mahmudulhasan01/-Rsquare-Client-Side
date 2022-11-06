@@ -1,0 +1,21 @@
+.home_container {
+    background: url(../assets/homebg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.instruction_text {
+    position: absolute;
+    left: 80vh;
+    top: 80vh;
+    font-family: 'Manrope';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    opacity: 0.6;
+}

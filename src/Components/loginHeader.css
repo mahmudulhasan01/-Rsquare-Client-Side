@@ -1,0 +1,32 @@
+.login_header {
+    background-image: url(../assets/loginBackground.png);
+    min-height: 100vh;
+    max-height: 100vh;
+    font-family: 'Manrope', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.login_header_content {
+    padding-top: 100px;
+    padding-left: 91px;
+    color: white;
+}
+
+.login_header_content h1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 111.6%;
+}
+
+.login_header_content p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}

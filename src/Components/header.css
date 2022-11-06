@@ -1,0 +1,21 @@
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 56px auto;
+}
+
+.upload_btn {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    align-items: center;
+    padding: 6px;
+    position: absolute;
+    width: 194px;
+    height: 44px;
+    background: #6360AB;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}

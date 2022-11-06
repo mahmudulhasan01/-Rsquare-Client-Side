@@ -1,0 +1,64 @@
+.Not_Found_Container {
+    background-color: white;
+    max-height: 100vh;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.four {
+    width: 155px;
+    height: 226px;
+    margin-top: 80px;
+}
+
+.zero {
+    width: 276px;
+    height: 324px;
+    margin-right: 55px;
+    margin-left: 55px;
+    margin-top: 70px;
+}
+
+.Not_Found_Container p {
+    max-width: 610px;
+    margin: 0px auto;
+    text-align: center;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 64px;
+}
+
+.back_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+    position: absolute;
+    width: 193px;
+    height: 56px;
+    background: #6360AB;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin: 0px auto;
+}
+
+.link {
+    text-align: center;
+    margin: 0px auto;
+}
+
+.btn_container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: -170px;
+}
